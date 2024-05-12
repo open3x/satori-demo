@@ -10,6 +10,7 @@
     "nitropack": "latest"
   },
   "dependencies": {
-    "satori": "^0.10.13"
+    "satori": "^0.10.13",
+    "satori-html": "^0.3.2"
   }
 }
